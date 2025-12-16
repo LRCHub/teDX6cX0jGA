@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "人として",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T17:00:18.202694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人として - From THE FIRST TAKE",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_人として_-_From_THE_FIRST_TAKE_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人として",
+      "artist": "海援隊",
+      "has_synced": true,
+      "path": "select/02_人として_海援隊.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人として",
+      "artist": "海援隊",
+      "has_synced": true,
+      "path": "select/03_人として_海援隊.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人として (From THE FIRST TAKE) - Hito to shite (From THE FIRST TAKE)",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/04_人として_(From_THE_FIRST_TAKE)_-_Hito_to_shite_(From_THE_FIRST_TAKE)_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人として – From THE FIRST TAKE",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/05_人として_–_From_THE_FIRST_TAKE_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人として",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/06_人として_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人として",
+      "artist": "Kaientai",
+      "has_synced": false,
+      "path": "select/07_人として_Kaientai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人として",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_人として_SUPER_BEAVER.txt"
+    }
+  ]
+}
